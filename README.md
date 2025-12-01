@@ -1,37 +1,52 @@
 # 🏁 Beecrowd – Treino para Maratonas de Programação
 
 Este repositório reúne exercícios resolvidos com foco em **treinamento para maratonas de programação**, utilizando como base problemas da plataforma **Beecrowd**.
-O objetivo é praticar lógica, melhorar tempo de execução e comparar diferentes soluções para o mesmo desafio.
+O objetivo é praticar lógica, otimizar código e comparar diferentes soluções para o mesmo desafio, aprimorando velocidade e qualidade na resolução de problemas.
 
 ---
 
 ## 📌 Estrutura de Branches
 
-Para facilitar o desenvolvimento e comparação das soluções, o projeto segue a seguinte organização:
+Para organizar melhor o desenvolvimento das soluções, o projeto utiliza três branches principais:
 
-| Branch       | Descrição                                                            |
-| ------------ | -------------------------------------------------------------------- |
-| **`victor`** | Contém os exercícios resolvidos pelo Victor.                         |
-| **`lucas`**  | Contém os exercícios resolvidos pelo Lucas.                          |
-| **`main`**   | Recebe o *merge* dos melhores resultados e soluções mais otimizadas. |
+| Branch       | Descrição                                                                |
+| ------------ | ------------------------------------------------------------------------ |
+| **`victor`** | Exercícios resolvidos pelo Victor.                                       |
+| **`lucas`**  | Exercícios resolvidos pelo Lucas.                                        |
+| **`main`**   | Reúne o *merge* das melhores soluções, priorizando clareza e desempenho. |
 
-Cada participante implementa os exercícios na própria branch e, após análise, a **main** recebe a versão mais eficiente, clara ou bem estruturada.
-
----
-
-## 🧠 Objetivo do Projeto
-
-* Resolver exercícios do **Beecrowd** para fortalecer lógica e velocidade de programação.
-* Comparar diferentes abordagens para o mesmo problema.
-* Unir as melhores soluções em uma branch principal.
-* Evoluir tecnicamente de forma colaborativa e competitiva.
+Cada um desenvolve e sobe seus códigos na própria branch e, após avaliação, a versão mais adequada é integrada na **main**.
 
 ---
 
-## 🚀 Como contribuir
+## 🗂 Estrutura de Pastas
 
-1. Clone o projeto
-2. Crie ou utilize sua branch pessoal
-3. Adicione seus exercícios resolvidos
-4. Compare resultados
-5. Caso sua solução seja superior, abra um PR para a **main**
+Dentro do repositório, cada exercício é armazenado em uma pasta identificada pelo **número do problema no Beecrowd**.
+Exemplo:
+
+```
+📁 1609
+📁 1176
+📁 1024
+```
+
+Para visualizar o enunciado do exercício, basta substituir o número no link:
+
+```
+https://judge.beecrowd.com/en/problems/view/{codigo}
+```
+
+Exemplo prático:
+
+🔗 `https://judge.beecrowd.com/en/problems/view/1609`
+
+---
+
+## 🎯 Objetivos do Projeto
+
+* Praticar lógica e velocidade de raciocínio.
+* Comparar soluções e evoluir através de duas abordagens diferentes.
+* Consolidar na branch principal apenas as **melhores implementações**.
+* Criar um histórico de evolução contínua no treinamento para maratonas.
+
+---
