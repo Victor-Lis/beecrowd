@@ -1,8 +1,9 @@
 casosTeste = int(input())
-energia = 0
+
 andarPessoas = []
 pessoas = []
 for i in range(casosTeste):
+    energia = 0
     total_andares, capacidade, pessoas = map(int, input().split())
     
     andares = [int(valor) for valor in input().split()[:pessoas]]
