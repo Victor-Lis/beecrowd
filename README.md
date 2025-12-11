@@ -7,21 +7,19 @@ O objetivo é praticar lógica, otimizar código e comparar diferentes soluçõe
 
 ## 📌 Estrutura de Branches
 
-Para organizar melhor o desenvolvimento das soluções, o projeto utiliza três branches principais:
+Para organizar melhor o desenvolvimento das soluções, o projeto utiliza o seguinte padrão:
 
-| Branch       | Descrição                                                                |
+| File       | Descrição                                                                |
 | ------------ | ------------------------------------------------------------------------ |
 | **`victor`** | Exercícios resolvidos pelo Victor.                                       |
 | **`lucas`**  | Exercícios resolvidos pelo Lucas.                                        |
-| **`main`**   | Reúne o *merge* das melhores soluções, priorizando clareza e desempenho. |
-
-Cada um desenvolve e sobe seus códigos na própria branch e, após avaliação, a versão mais adequada é integrada na **main**.
+| **`main`**   | Reúne o *merge* das melhores soluções ou exercícios feitos em conjunto.  |
 
 ---
 
 ## 🗂 Estrutura de Pastas
 
-Dentro do repositório, cada exercício é armazenado em uma pasta identificada pelo **número do problema no Beecrowd**.
+Dentro do repositório, cada exercício é armazenado em uma pasta identificada pelo **nome do exercício** e **número do problema no Beecrowd**.
 Exemplo:
 
 ```
